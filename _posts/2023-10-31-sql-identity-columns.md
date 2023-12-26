@@ -6,7 +6,7 @@ tags:
 - sql
 ---
 
-Autoincrementing columns, identity columns, serial columns, whatever
+XXX Autoincrementing columns, identity columns, serial columns, whatever
 you call it, this is clearly a popular feature in SQL databases, but
 with a bunch of different syntaxes.  At least historically.
 
